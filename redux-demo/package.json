@@ -1,0 +1,17 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "description": "redux demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3"
+  }
+}
